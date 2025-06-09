@@ -26,5 +26,9 @@ También se aloja un módulo funciones donde se encuentran los algoritmos de ord
 Resultó un trabajo con el que creemos que requerimos de una gran integración de todos los temas vistos hasta ahora en la materia. La implementación de recursividad e iteraciones resultó muy enriquecedora para nuestra experiencia. Aprendimos además a integrar nuevos algoritmos para hacer mas eficientes futuros proyectos en los que trabajemos, en especial con lo que tiene que ver en la busqueda de elementos.
 Además siempre es bueno tener presente que, aunque algoritmos como estos no tengan una gran complejidad, muchas veces sirven como herramientas fundamentales para llevar a cabo otros proyectos mas complejos de manera tanto mas organizada como eficientemente.
 
+# Enlace del video
+
+https://youtu.be/GCRbCbjFFuk
+
 
 
